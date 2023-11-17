@@ -1,6 +1,6 @@
 body {
-	margin: 0;
 	text-align: center;
-	border: 2px solid black; /* You can adjust the border width and color */
-    	padding: 10px; /* Optional: Add padding for some space around the text */
+	max-width: 38rem;
+  	padding: 2rem;
+ 	margin: auto;
 }
